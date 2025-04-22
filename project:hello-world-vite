@@ -1,0 +1,14 @@
+hello-world-vite/
+├── node_modules/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+├── vite.config.js
+└── yarn.lock / package-lock.json
